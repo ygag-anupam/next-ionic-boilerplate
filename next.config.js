@@ -9,4 +9,4 @@ const nextConfig = {
 	transpilePackages: ['@ionic/react'],
 }
 
-module.exports = nextConfig
+module.exports = nextConfig;
